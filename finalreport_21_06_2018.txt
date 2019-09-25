@@ -1,0 +1,13 @@
+1 	
+10348 Autos	
+54893 Comedy	
+85871 Entertainment	
+50693 Film	
+42418 Gadgets	
+12503 Howto	
+124243 Music	
+22262 News	
+32345 People	
+7062 Pets	
+49543 Sports	
+10818 Travel	
